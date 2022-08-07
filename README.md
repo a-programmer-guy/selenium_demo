@@ -21,3 +21,5 @@ Edge WebDriver for testing on the Edge browser. [Download.](https://developer.mi
 Download Maven [Here.](https://maven.apache.org/download.cgi)
 
 How to add permanent environment variable for Maven [Click Here.](https://www.youtube.com/watch?v=NvAYH5Qu_YQ)
+
+Automated WebDriverManager [Download.](https://mvnrepository.com/artifact/io.github.bonigarcia/webdrivermanager)

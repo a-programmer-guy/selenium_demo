@@ -1,7 +1,7 @@
 # selenium_demo
 Introduction to selenium 
 
-The purpose for this project is to introduce Selenium testing applications using Java, and the Eclipse IDE. Maven will be used for dependency manadagement.
+The purpose for this project is to introduce Selenium testing applications using Java, and the Eclipse IDE. Maven will be used for dependency management. 
 
 Prerequisites: Java JDK and Eclipse IDE installed. 
 

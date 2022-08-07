@@ -23,3 +23,5 @@ Download Maven [Here.](https://maven.apache.org/download.cgi)
 How to add permanent environment variable for Maven [Click Here.](https://www.youtube.com/watch?v=NvAYH5Qu_YQ)
 
 Automated WebDriverManager [Download.](https://mvnrepository.com/artifact/io.github.bonigarcia/webdrivermanager)
+
+Selenium documentation for Java, [Here.](https://www.selenium.dev/selenium/docs/api/java/index.html?org/openqa/selenium/package-summary.html)

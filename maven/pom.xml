@@ -3,4 +3,11 @@
   <groupId>com.demo</groupId>
   <artifactId>Selenium_demo</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <dependencies>
+	<dependency>
+	    <groupId>org.seleniumhq.selenium</groupId>
+	    <artifactId>selenium-java</artifactId>
+	    <version>4.3.0</version>
+	</dependency>
+  </dependencies>
 </project>

@@ -25,3 +25,5 @@ How to add permanent environment variable for Maven [Click Here.](https://www.yo
 Automated WebDriverManager [Download.](https://mvnrepository.com/artifact/io.github.bonigarcia/webdrivermanager)
 
 Selenium documentation for Java, [Here.](https://www.selenium.dev/selenium/docs/api/java/index.html?org/openqa/selenium/package-summary.html)
+
+Add TestNG to dependencies [Click Here.](https://testng.org/doc/maven.html)

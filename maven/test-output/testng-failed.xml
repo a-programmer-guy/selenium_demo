@@ -7,7 +7,7 @@
         <methods>
           <include name="terminateBrowser"/>
           <include name="setup"/>
-          <include name="verifyHomepageTitle"/>
+          <include name="getWindowHandle"/>
         </methods>
       </class> <!-- listener_demo.TestCases -->
     </classes>

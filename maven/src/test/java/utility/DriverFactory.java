@@ -22,7 +22,6 @@ public class DriverFactory {
 		} else if(browser.equals("chrome")) {
 			WebDriverManager.chromedriver().setup();
 			driver = new ChromeDriver();
-			driver2 = new ChromeDriver();
 		} else if(browser.equals("edge")) {
 			WebDriverManager.edgedriver().setup();
 			driver = new EdgeDriver();

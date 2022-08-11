@@ -2,48 +2,48 @@
 <testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-08-09T21:36:35 CST" name="Default suite" finished-at="2022-08-09T21:36:42 CST" duration-ms="7855">
+  <suite started-at="2022-08-10T14:05:49 CST" name="Default suite" finished-at="2022-08-10T14:05:58 CST" duration-ms="8996">
     <groups>
     </groups>
-    <test started-at="2022-08-09T21:36:35 CST" name="Default test" finished-at="2022-08-09T21:36:42 CST" duration-ms="7855">
+    <test started-at="2022-08-10T14:05:49 CST" name="Default test" finished-at="2022-08-10T14:05:58 CST" duration-ms="8996">
       <class name="listener_demo.TestCases">
-        <test-method is-config="true" signature="setup()[pri:0, instance:listener_demo.TestCases@52719fb6]" started-at="2022-08-09T21:36:35 CST" name="setup" finished-at="2022-08-09T21:36:36 CST" duration-ms="1123" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:listener_demo.TestCases@25641d39]" started-at="2022-08-10T14:05:49 CST" name="setup" finished-at="2022-08-10T14:05:51 CST" duration-ms="1135" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="calculatePageLoadTime()[pri:0, instance:listener_demo.TestCases@52719fb6]" started-at="2022-08-09T21:36:36 CST" name="calculatePageLoadTime" finished-at="2022-08-09T21:36:36 CST" duration-ms="607" status="PASS">
+        <test-method signature="calculatePageLoadTime()[pri:0, instance:listener_demo.TestCases@25641d39]" started-at="2022-08-10T14:05:51 CST" name="calculatePageLoadTime" finished-at="2022-08-10T14:05:51 CST" duration-ms="736" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- calculatePageLoadTime -->
-        <test-method signature="getWindowHandle()[pri:0, instance:listener_demo.TestCases@52719fb6]" started-at="2022-08-09T21:36:36 CST" name="getWindowHandle" finished-at="2022-08-09T21:36:40 CST" duration-ms="4230" status="PASS">
+        <test-method signature="getWindowHandle()[pri:0, instance:listener_demo.TestCases@25641d39]" started-at="2022-08-10T14:05:51 CST" name="getWindowHandle" finished-at="2022-08-10T14:05:56 CST" duration-ms="4647" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getWindowHandle -->
-        <test-method signature="navigateToDifferentUrl()[pri:0, instance:listener_demo.TestCases@52719fb6]" started-at="2022-08-09T21:36:41 CST" name="navigateToDifferentUrl" finished-at="2022-08-09T21:36:42 CST" duration-ms="1149" status="PASS">
+        <test-method signature="navigateToDifferentUrl()[pri:0, instance:listener_demo.TestCases@25641d39]" started-at="2022-08-10T14:05:56 CST" name="navigateToDifferentUrl" finished-at="2022-08-10T14:05:58 CST" duration-ms="1689" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- navigateToDifferentUrl -->
-        <test-method signature="testSuccessfulLogin()[pri:0, instance:listener_demo.TestCases@52719fb6]" started-at="2022-08-09T21:36:42 CST" name="testSuccessfulLogin" finished-at="2022-08-09T21:36:42 CST" duration-ms="288" status="PASS">
+        <test-method signature="testSuccessfulLogin()[pri:0, instance:listener_demo.TestCases@25641d39]" started-at="2022-08-10T14:05:58 CST" name="testSuccessfulLogin" finished-at="2022-08-10T14:05:58 CST" duration-ms="271" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testSuccessfulLogin -->
-        <test-method signature="verifyCurrentURL()[pri:0, instance:listener_demo.TestCases@52719fb6]" started-at="2022-08-09T21:36:42 CST" name="verifyCurrentURL" finished-at="2022-08-09T21:36:42 CST" duration-ms="30" status="PASS">
+        <test-method signature="verifyCurrentURL()[pri:0, instance:listener_demo.TestCases@25641d39]" started-at="2022-08-10T14:05:58 CST" name="verifyCurrentURL" finished-at="2022-08-10T14:05:58 CST" duration-ms="31" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyCurrentURL -->
-        <test-method signature="verifyHomepageTitle()[pri:0, instance:listener_demo.TestCases@52719fb6]" started-at="2022-08-09T21:36:42 CST" name="verifyHomepageTitle" finished-at="2022-08-09T21:36:42 CST" duration-ms="157" status="PASS">
+        <test-method signature="verifyHomepageTitle()[pri:0, instance:listener_demo.TestCases@25641d39]" started-at="2022-08-10T14:05:58 CST" name="verifyHomepageTitle" finished-at="2022-08-10T14:05:58 CST" duration-ms="149" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyHomepageTitle -->
-        <test-method signature="verifyNumberOfProducts()[pri:0, instance:listener_demo.TestCases@52719fb6]" started-at="2022-08-09T21:36:42 CST" name="verifyNumberOfProducts" finished-at="2022-08-09T21:36:42 CST" duration-ms="171" status="PASS">
+        <test-method signature="verifyNumberOfProducts()[pri:0, instance:listener_demo.TestCases@25641d39]" started-at="2022-08-10T14:05:58 CST" name="verifyNumberOfProducts" finished-at="2022-08-10T14:05:58 CST" duration-ms="188" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyNumberOfProducts -->
-        <test-method signature="verifyPageSource()[pri:0, instance:listener_demo.TestCases@52719fb6]" started-at="2022-08-09T21:36:42 CST" name="verifyPageSource" finished-at="2022-08-09T21:36:42 CST" duration-ms="8" status="PASS">
+        <test-method signature="verifyPageSource()[pri:0, instance:listener_demo.TestCases@25641d39]" started-at="2022-08-10T14:05:58 CST" name="verifyPageSource" finished-at="2022-08-10T14:05:58 CST" duration-ms="13" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyPageSource -->
-        <test-method is-config="true" signature="terminateBrowser()[pri:0, instance:listener_demo.TestCases@52719fb6]" started-at="2022-08-09T21:36:42 CST" name="terminateBrowser" finished-at="2022-08-09T21:36:42 CST" duration-ms="60" status="PASS">
+        <test-method is-config="true" signature="terminateBrowser()[pri:0, instance:listener_demo.TestCases@25641d39]" started-at="2022-08-10T14:05:58 CST" name="terminateBrowser" finished-at="2022-08-10T14:05:58 CST" duration-ms="106" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- terminateBrowser -->

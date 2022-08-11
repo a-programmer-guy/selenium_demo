@@ -16,9 +16,11 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
+import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
+@Listeners(listener_demo.ListenerTest.class)	
 
 public class TestCases {
 
@@ -116,7 +118,7 @@ public class TestCases {
 				" And the actual Url after login is " + loggedInUrl);
 	}
 	
-	// Verify number of objects on a particular page using findElements and xpath
+	// Verify number of elements on a particular page using findElements and xpath
 	@Test
 	public void verifyNumberOfProducts() {
 		driver.get("https://www.saucedemo.com/inventory.html");
@@ -151,9 +153,10 @@ public class TestCases {
 		}
 		driver2.switchTo().window(mainWindowHandle).close();
 	}
+	
 	@AfterTest
 	public void terminateBrowser() {
-		System.out.println("Closing the browser session");
+		System.out.println("Testing completed... Closing the browser session.");
 		driver.close();
 	}
 }
